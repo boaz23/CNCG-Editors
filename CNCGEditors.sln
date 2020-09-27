@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSFEditor", "CSFEditor\CSFEditor.csproj", "{08AD370D-67F9-46D3-9557-FA52F400B77A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CNCGEditorsUtility", "CNCGEditorsUtility\CNCGEditorsUtility.csproj", "{5CCED850-B2ED-495D-8364-E0D18060993B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIG-Editor", "BIG-Editor\BIG-Editor.csproj", "{149F43F1-1A62-4AD0-90CA-11BEF3BA6415}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +23,15 @@ Global
 		{5CCED850-B2ED-495D-8364-E0D18060993B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CCED850-B2ED-495D-8364-E0D18060993B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CCED850-B2ED-495D-8364-E0D18060993B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149F43F1-1A62-4AD0-90CA-11BEF3BA6415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149F43F1-1A62-4AD0-90CA-11BEF3BA6415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149F43F1-1A62-4AD0-90CA-11BEF3BA6415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149F43F1-1A62-4AD0-90CA-11BEF3BA6415}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3000C67E-25D1-48B7-BD89-2DA833584A3F}
 	EndGlobalSection
 EndGlobal

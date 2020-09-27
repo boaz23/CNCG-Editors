@@ -1,0 +1,19 @@
+﻿UI/UX:
+* Open files
+* List all inner files
+* Extract all files (with warning if folder isn't empty)
+* "Compress" all files
+* Add file (or directory) from the file system
+* Add "virtual" file (or directory) (i.e. one not from the file system)
+* Edit INI files: basically notepad style (copy, paste, undo, etc.)
+* Save changes (rebuild the whole file)
+
+* Ability to swap betweeen tree view and list view
+* Show icons of files by their extension
+* Associate with .big extension
+* Windows explorer context menu extractions and other actions (see WinRar for examples)
+* Multiple editor tabs
+
+Programmability:
+* API (see ZipArchive in the .NET Core library for an example)
+* CLI
