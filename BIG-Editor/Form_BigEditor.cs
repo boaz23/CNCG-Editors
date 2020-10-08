@@ -17,5 +17,8 @@ namespace BIG_Editor
             InitializeComponent();
         }
 
+        private void Form_BigEditor_Load(object sender, EventArgs e)
+        {
+        }
     }
 }

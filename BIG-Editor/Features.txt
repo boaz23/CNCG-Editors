@@ -1,15 +1,23 @@
 ﻿UI/UX:
-* Open files
-* List all inner files
-* Extract all files (with warning if folder isn't empty)
-* "Compress" all files
-* Add file (or directory) from the file system
-* Add "virtual" file (or directory) (i.e. one not from the file system)
-* Edit INI files: basically notepad style (copy, paste, undo, etc.)
+* Open BIG archives
+* Create new BIG archives
 * Save changes (rebuild the whole file)
+* List all files
+* Extract all files (with warning if folder isn't empty)
+* Create archive from files
+* Add files (or directories) from the file system
+* Add "virtual" files (or directories) (i.e. one not from the file system)
+* Rename files and directories in the archive
+* Remove files or directories from the archive
+* Edit INI files: basically notepad style (copy, paste, undo, etc.)
 
-* Ability to swap betweeen tree view and list view
+* Swap betweeen tree view and list view
+* Drag & drop files and directories
+* Context menu on the files view control (with all the above actions)
+* Filter files by name/regex
+* Find/replace in files (normal and regex)
 * Show icons of files by their extension
+* Open files with their associated editor (without support for changes done in them, just view)
 * Associate with .big extension
 * Windows explorer context menu extractions and other actions (see WinRar for examples)
 * Multiple editor tabs
